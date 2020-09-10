@@ -10,17 +10,16 @@ This is my 1st Capstone project for the TTP NYC GALVANIZE Data Analyst Training 
 - Acknowledgements
 
 ## About the Project
-My project is will focus on the 33,358 records of Propublica.org published
-NYPD complaint records between 1994-2020. I wanted to see if police officers were 
-being held accountable after recieving a substaintuated allegation of misconduct. The data set can
-be downloaded on the website https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers
-or you can download this repository.
+My project is will focus on discovering possible lucrative advertisement placement opportunities in US and
+Mexico entertainment YouTube channels.  The data set can be downloaded on the website https://www.kaggle.com/datasnaek/youtube-new. I used PostGreSql to analyze, clean and prepare the data to be uploaded to Tableau. I created an interactive dashboard which can be accessed with here https://public.tableau.com/profile/christian.rios.chambi#!/vizhome/CRioschambiCapstone1YoutubeUS/USDASHBOARD?publish=yes
+
+
 
 ## Getting Started
   1. Download/Clone the repo
-  2. The "allegations_20200726939.csv" file is the data set from Propublica.org
-  2. Open the Jupyter notebook file and make sure all csv files are in the same directory
-  4. The Jupyter notebook file will guide you through all my analysis 
+  2. My SQL code file can be opened using VScode. 
+  3. The database and tables need to be created on PostGreSql before importing the csv files. Instructions and code included in this repo.
+  4. My presentation is included. The summary of my work will be described in my presentation.
   
 ## Contact
 Name : Christian Rios-Chambi 
