@@ -1,3 +1,7 @@
+![alt text](https://havecamerawilltravel.com/photographer/files/2020/01/youtube-logo-new.jpg)
+# What Fell Under the Radar? Accountability and the NYPD
+
+
 ## Capstone_1_YouTube
 # Advertisement Opportunities for US and Mexico Top Trending YouTube Channels
 This is my 1st Capstone project for the TTP NYC GALVANIZE Data Analyst Training Accelerator Program
