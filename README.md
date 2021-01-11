@@ -26,7 +26,10 @@ Mexico entertainment YouTube channels.  The data set can be downloaded on the we
   4. My presentation is included. The summary of my work will be described in my presentation.
   
 ## Contact
-**Name** : Christian Rios-Chambi 
+**Name** : Christian Rios-Chambi
+
 **Email**: crioschambi@gmail.com
+
 **Linkedin**: www.linkedin.com/in/crioshambi
+
 **Website**: crioschambi.com
